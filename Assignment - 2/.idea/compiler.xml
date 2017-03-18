@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Assignment - 2" />
+        <module name="mod4" />
+        <module name="module" />
+        <module name="Module 1" />
+        <module name="Module 2" />
+        <module name="Module 3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assignment - 2" target="1.5" />
+      <module name="mod4" target="1.5" />
+      <module name="module" target="1.5" />
+      <module name="Module 1" target="1.5" />
+      <module name="Module 2" target="1.5" />
+      <module name="Module 3" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
